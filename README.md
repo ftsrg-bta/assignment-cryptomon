@@ -1,4 +1,4 @@
-# Simple Smart Contract Example – Lock
+# Assignment: Cryptomon
 
 Example usage
 ```console
